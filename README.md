@@ -1,5 +1,5 @@
 # OrganicFarmingSocialValuesSimulation
-Simulation of organic farming certification process under consideration of diverse participation motivations. The simulation is associated with an article.
+Simulation of organic farming certification process under consideration of diverse participation motivations. The simulation is associated with an article. The model specification in the ODD+D protocol format is provided [here](https://github.com/chrfrantz/OrganicFarmingSocialValuesSimulation/blob/main/documentation/Organic%20Farming%20Participant%20Motives%20Model%20ODD%26D%20Protocol.pdf).
 
 # How to run the simulation
 
